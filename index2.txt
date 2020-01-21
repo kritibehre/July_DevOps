@@ -1,0 +1,3 @@
+hi,
+
+this is index2 on branch c1
